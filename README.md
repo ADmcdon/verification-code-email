@@ -9,3 +9,5 @@ The member verification email is a tool to verify that the person who signed up 
 I still need to add a feature to add random generated numbers and a way to insert customer name into the email.
 
 this exercise was for recreating a design
+
+I used internal styling and tables to recreate the layout of a recent email I recieved from Nike
