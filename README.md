@@ -12,4 +12,4 @@ this exercise was for recreating a design
 
 I used internal styling and tables to recreate the layout of a recent email I recieved from Nike
 
-![image](https://user-images.githubusercontent.com/107668054/230747330-9be3cc87-1930-4d15-a62f-6b6e20fffff9.png)
+![image](https://user-images.githubusercontent.com/107668054/231020215-02951024-9a20-45e5-8ed8-ae3bff94574a.png)
